@@ -102,6 +102,8 @@ java LoadTest
 
 Fires 20 concurrent requests from separate threads to check the limiter holds up under concurrency.
 
+![load test output](screenshots/load-test-output.png)
+
 ## Docker
 
 ~~~bash
