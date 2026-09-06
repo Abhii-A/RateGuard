@@ -1,3 +1,4 @@
+<img width="853" height="489" alt="Screenshot 2026-09-06 at 7 24 30 PM" src="https://github.com/user-attachments/assets/455f2739-c78a-4de3-861c-53770ff5db65" />
 # RateGuard
 
 Distributed rate limiter using Spring Boot and Redis. Three different algorithms, three endpoints, so you can actually compare how they behave instead of just picking one.
@@ -102,7 +103,7 @@ java LoadTest
 
 Fires 20 concurrent requests from separate threads to check the limiter holds up under concurrency.
 
-![load test output](screenshots/load-test-output.png)
+<img width="853" height="489" alt="Screenshot 2026-09-06 at 7 24 30 PM" src="https://github.com/user-attachments/assets/455f2739-c78a-4de3-861c-53770ff5db65" />
 
 ## Docker
 
